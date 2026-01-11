@@ -2,13 +2,13 @@
 
 /* Cambiar color de fondo de toda la página */
 body {
-    background-color: rgb(17, 112, 141);
+    background-color: rgb(192, 234, 39);
     font-family: Arial;
 }
 
 /* Estilo para el título principal */
 h1 {
-    color: rgb(0, 0, 8);
+    color: rgb(222, 15, 112);
     text-align: center;
 }
 
