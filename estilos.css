@@ -1,0 +1,33 @@
+
+
+/* Cambiar color de fondo de toda la página */
+body {
+    background-color: rgb(17, 112, 141);
+    font-family: Arial;
+}
+
+/* Estilo para el título principal */
+h1 {
+    color: rgb(0, 0, 8);
+    text-align: center;
+}
+
+/* Estilo para los párrafos */
+p {
+    color: black;
+    font-size: 18px;
+}
+
+/* Centrar la imagen */
+img {
+    display: block;
+    margin: 20px auto;
+}
+
+/* Estilo para la lista */
+ul {
+    background-color: lightyellow;
+    padding: 20px;
+    width: 300px;
+    margin: 20px auto;
+}
